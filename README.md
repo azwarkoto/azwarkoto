@@ -39,7 +39,7 @@ Myself `AZWAR ANAS GUSRI`. I'm a mobile technology enthusiast! love Android __ko
 
 ## Languages
 <img src="https://img.shields.io/badge/Kotlin-303030?style=for-the-badge&logo=kotlin" alt="kotlin"> <img src="https://img.shields.io/badge/Java-303030?style=for-the-badge&logo=Java" alt="Java"> <img src="https://img.shields.io/badge/Flutter-303030?style=for-the-badge&logo=Flutter" alt="Flutter">
-<img src="https://img.shields.io/badge/Mysql-303030?style=for-the-badge&logo=Mysql" alt="Mysql">
+<img src="https://img.shields.io/badge/Mysql-303030?style=for-the-badge&logo=Mysql" alt="Mysql"><img src="https://img.shields.io/badge/Office-303030?style=for-the-badge&logo=Office" alt="Office">
 
 
 ## Technologies
