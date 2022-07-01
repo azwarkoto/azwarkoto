@@ -87,7 +87,5 @@ Introduce My Name is AZWAR ANAS GUSTI https://www.youtube.com/c/AzwarOfficial/fe
 <a href="https://www.youtube.com/c/AzwarOfficial" target="_blank"><img src="https://img.shields.io/badge/youtube-AzwarOfficial-4078c0?style=for-the-badge&logo=youtube" alt="youtube"></a> 
 
 
-<p align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=ch8n">
-</p≈>
+
 
