@@ -48,7 +48,7 @@ Myself `AZWAR ANAS GUSRI`. I'm a mobile technology enthusiast! love Android __ko
 
 
 
- <img src="https://activity-graph.herokuapp.com/graph?username=AZWAR ANAS GUSTI &theme=react-dark&bg_color=000&hide_border=true" width="100%"/>
+ <img src="https://activity-graph.herokuapp.com/graph?usernamevikassuthar44=&theme=react-dark&bg_color=000&hide_border=true" width="100%"/>
 
 ## Stalk Me 👀
 
