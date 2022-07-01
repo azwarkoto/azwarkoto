@@ -55,6 +55,7 @@ Myself `AZWAR ANAS GUSTI`. I'm a mobile technology enthusiast! love Android __ko
 <img src="https://img.shields.io/badge/Android-303030?style=for-the-badge&logo=Android" alt="Android"> <img src="https://img.shields.io/badge/Flutter-303030?style=for-the-badge&logo=Flutter" alt="Flutter">  <img src="https://img.shields.io/badge/firebase-303030?style=for-the-badge&logo=firebase" alt="firebase">
   <img src="https://img.shields.io/badge/sublimetext-303030?style=for-the-badge&logo=sublimetext" alt="sublimetext">
   <img src="https://img.shields.io/badge/visualstudio-303030?style=for-the-badge&logo=visualstudio" alt="visualstudio">
+   <img src="https://img.shields.io/badge/xmpp-303030?style=for-the-badge&logo=xmpp" alt="xmpp">
   
 
 ## 📊 Github Stats
