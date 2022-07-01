@@ -1,6 +1,6 @@
 # Namste World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Myself `AZWAR ANAS GUSRI`. I'm a mobile technology enthusiast! love Android __kotlinAlltheWay__, want to explore all opportunity around it! 
+Myself `AZWAR ANAS GUSTI`. I'm a mobile technology enthusiast! love Android __kotlinAlltheWay__, want to explore all opportunity around it! 
 
 ### CodingMantra
 `#cleanCoder #MVVM #SOLID #designpatterns`
@@ -25,6 +25,8 @@ Myself `AZWAR ANAS GUSRI`. I'm a mobile technology enthusiast! love Android __ko
 
 ## Work Experience:
 #### 1. [PT. HALOTEC INDONESIA](http://halotec-indonesia.com/) | IT SUPPORT | Jakarta `Dec'2018 - Now`
+#### 2. [PT. KAWASAKI (https://www.kawasaki-motor.co.id/id-id/) | WAREHOUSE GOODS PRODUCTION | Jakarta `Dec'2013 - Now`
+   
    
 ---
 
