@@ -21,7 +21,7 @@ Myself `AZWAR ANAS GUSTI`. I'm a mobile technology enthusiast! love Android __ko
 #### 1. [Universitas Bina Sarana Informatika (BSI)](https://www.bsi.ac.id/ubsi/index.js) | Informatics Management | Jakarta `2015-2018`
    
  #### 2. [SMK DINAMIKA PEMABAGUNAN 1 JAKARTA ](https://smkdp1jkt.sch.id/) | TKR (TEKNIK KENDARAAN RINGGAN)  | JAKARTA `2012-2015`
-   - Chief of Rohkris
+   
 
 ## Work Experience:
 #### 1. [PT. HALOTEC INDONESIA](http://halotec-indonesia.com/) | IT SUPPORT | Jakarta `Dec'2018 - Now`
@@ -41,12 +41,17 @@ Myself `AZWAR ANAS GUSTI`. I'm a mobile technology enthusiast! love Android __ko
 
 ## Languages
 <img src="https://img.shields.io/badge/Kotlin-303030?style=for-the-badge&logo=kotlin" alt="kotlin"> <img src="https://img.shields.io/badge/Java-303030?style=for-the-badge&logo=Java" alt="Java"> <img src="https://img.shields.io/badge/Flutter-303030?style=for-the-badge&logo=Flutter" alt="Flutter">
-<img src="https://img.shields.io/badge/Mysql-303030?style=for-the-badge&logo=Mysql" alt="Mysql"><img src="https://img.shields.io/badge/Office-303030?style=for-the-badge&logo=Office" alt="Office">
+<img src="https://img.shields.io/badge/Mysql-303030?style=for-the-badge&logo=Mysql" alt="Mysql">
+<img src="https://img.shields.io/badge/Office-303030?style=for-the-badge&logo=Office" alt="Office">
+[<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png
 
 
 ## Technologies
 
 <img src="https://img.shields.io/badge/Android-303030?style=for-the-badge&logo=Android" alt="Android"> <img src="https://img.shields.io/badge/Flutter-303030?style=for-the-badge&logo=Flutter" alt="Flutter">  <img src="https://img.shields.io/badge/firebase-303030?style=for-the-badge&logo=firebase" alt="firebase">
+  <img src="https://img.shields.io/badge/sublimetext-303030?style=for-the-badge&logo=sublimetext" alt="sublimetext">
+  <img src="https://img.shields.io/badge/visualstudio-303030?style=for-the-badge&logo=visualstudio" alt="visualstudio">
+  
 
 ## 📊 Github Stats
 
