@@ -42,8 +42,13 @@ Myself `AZWAR ANAS GUSTI`. I'm a mobile technology enthusiast! love Android __ko
 ## Languages
 <img src="https://img.shields.io/badge/Kotlin-303030?style=for-the-badge&logo=kotlin" alt="kotlin"> <img src="https://img.shields.io/badge/Java-303030?style=for-the-badge&logo=Java" alt="Java"> <img src="https://img.shields.io/badge/Flutter-303030?style=for-the-badge&logo=Flutter" alt="Flutter">
 <img src="https://img.shields.io/badge/Mysql-303030?style=for-the-badge&logo=Mysql" alt="Mysql">
+<img src="https://img.shields.io/badge/php-303030?style=for-the-badge&logo=php" alt="php">
+<img src="https://img.shields.io/badge/css-303030?style=for-the-badge&logo=css" alt="css">
+<img src="https://img.shields.io/badge/html-303030?style=for-the-badge&logo=html" alt="html">
 <img src="https://img.shields.io/badge/Office-303030?style=for-the-badge&logo=Office" alt="Office">
-[<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
+<img src="https://img.shields.io/badge/Excel-303030?style=for-the-badge&logo=Excel" alt="Excel">
+
+
 
 ## Technologies
 
