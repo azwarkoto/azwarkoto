@@ -14,7 +14,19 @@ Myself `AZWAR ANAS GUSRI`. I'm a mobile technology enthusiast! love Android __ko
     🤔 I’m looking for suggest for Automation and Data Analyst
     💬 Ask me about anything
     📫 How to reach me: azwar.one10@gmail.com
+    
+    
+## Education:
 
+#### 1. [Universitas Bina Sarana Informatika (BSI)](https://www.bsi.ac.id/ubsi/index.js) | Informatics Management | Jakarta `2015-2018`
+   
+ #### 2. [SMK DINAMIKA PEMABAGUNAN 1 JAKARTA ](https://smkdp1jkt.sch.id/) | TKR (TEKNIK KENDARAAN RINGGAN)  | JAKARTA `2012-2015`
+   - Chief of Rohkris
+
+## Work Experience:
+#### 1. [PT. HALOTEC INDONESIA](http://halotec-indonesia.com/) | IT SUPPORT | Jakarta `Dec'2018 - Now`
+   
+---
 
 
 
@@ -27,6 +39,9 @@ Myself `AZWAR ANAS GUSRI`. I'm a mobile technology enthusiast! love Android __ko
 
 ## Languages
 <img src="https://img.shields.io/badge/Kotlin-303030?style=for-the-badge&logo=kotlin" alt="kotlin"> <img src="https://img.shields.io/badge/Java-303030?style=for-the-badge&logo=Java" alt="Java"> <img src="https://img.shields.io/badge/Flutter-303030?style=for-the-badge&logo=Flutter" alt="Flutter">
+[<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Ofiice" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/Office.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
 
 ## Technologies
 
