@@ -8,10 +8,12 @@ Myself `AZWAR ANAS GUSRI`. I'm a mobile technology enthusiast! love Android __ko
 ## About Me
 <img align="right" height="240px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🚀 A Passionate Android Developer 
-- :trophy: Kotlin Fan boy 
-- 🔭 I’m currently working on Android Master Book!.
-- 🌱 I’m currently learning Compose and Flutter.<br />
+  🔭 I’m currently working at PT.Halotec Indonesia
+    🌱 I’m currently learning Flutter and Java,Katolin,Html,Php,CSS,Java Script
+    👯 I’m looking to collaborate as Data Analyst
+    🤔 I’m looking for suggest for Automation and Data Analyst
+    💬 Ask me about anything
+    📫 How to reach me: azwar.one10@gmail.com
 
 
 
