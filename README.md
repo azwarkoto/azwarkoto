@@ -40,6 +40,12 @@ Introduce My Name is AZWAR ANAS GUSTI https://www.youtube.com/c/AzwarOfficial/fe
 
 <br>
 
+## Web Browsers
+<img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
+<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
+
+
+
 ## Languages
 <img src="https://img.shields.io/badge/Kotlin-303030?style=for-the-badge&logo=kotlin" alt="kotlin"> <img src="https://img.shields.io/badge/Java-303030?style=for-the-badge&logo=Java" alt="Java"> <img src="https://img.shields.io/badge/Flutter-303030?style=for-the-badge&logo=Flutter" alt="Flutter">
 <img src="https://img.shields.io/badge/Mysql-303030?style=for-the-badge&logo=Mysql" alt="Mysql">
