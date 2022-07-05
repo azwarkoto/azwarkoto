@@ -40,6 +40,11 @@ Introduce My Name is AZWAR ANAS GUSTI https://www.youtube.com/c/AzwarOfficial/fe
 
 <br>
 
+## Operatin System
+
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+
+
 ## Web Browsers
 <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
 <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
