@@ -46,8 +46,8 @@ Introduce My Name is AZWAR ANAS GUSTI https://www.youtube.com/c/AzwarOfficial/fe
 <img src="https://img.shields.io/badge/php-303030?style=for-the-badge&logo=php" alt="php">
 <img src="https://img.shields.io/badge/CSS-303030?style=for-the-badge&logo=css" alt="css">
 <img src="https://img.shields.io/badge/HTML-303030?style=for-the-badge&logo=html" alt="html">
-<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white
-<img src="https://img.shields.io/badge/Microsoft_Word-303030?style=for-the-badge&logo=Microsoft_Word" alt="Microsoft_Word">
+<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
+
 
 
 
