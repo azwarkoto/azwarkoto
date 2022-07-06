@@ -100,10 +100,10 @@ Introduce My Name is AZWAR ANAS GUSTI <a href="https://www.youtube.com/c/AzwarOf
 
 <p align="center">
 
-<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=azwarkoto&theme=hacker&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=id)](https://git.io/streak-stats)
+<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=azwarkoto&theme=hacker&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=id
   
 <br>
-<br>
+<b
 
 <a href="https://github.com/ch8n">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azwarkoto&count_private=true&show_icons=true&include_all_commits=true" alt="azwarkoto | Stats"/>
