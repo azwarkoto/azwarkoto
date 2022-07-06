@@ -100,7 +100,7 @@ Introduce My Name is AZWAR ANAS GUSTI <a href="https://www.youtube.com/c/AzwarOf
 
 <p align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=azwarkoto&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=id)](https://git.io/streak-stats)
+[![GitHub Streak]  align="center" (https://github-readme-streak-stats.herokuapp.com?user=azwarkoto&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=id)](https://git.io/streak-stats)
   
 <br>
 <b
