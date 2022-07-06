@@ -101,7 +101,7 @@ Introduce My Name is AZWAR ANAS GUSTI <a href="https://www.youtube.com/c/AzwarOf
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azwarkoto&count_private=true&show_icons=true&include_all_commits=true" alt="azwarkoto | Stats"/>
   
  <a href="https://github.com/azwarkoto"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username={azwarkoto}&theme=blue-green&count_private=true&show_icons=true&include_all_commits=true" alt="azwarkoto | Stats"/>
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username={azwarkoto}&theme=blue-green&count_private=true&show_icons=true&include_all_commits=true" alt="azwarkoto | Stats"/>
   
   
  
