@@ -111,7 +111,7 @@ Introduce My Name is AZWAR ANAS GUSTI <a href="https://www.youtube.com/c/AzwarOf
 
 
 
-<img src="https://activity-graph.herokuapp.com/graph?username=azwarkoto&theme=react-dark&bg_color=000&hide_border=true" width="100%"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=azwarkoto&theme=react-dark&bg_color=00800&hide_border=true" width="100%"/>
 
 ## Stalk Me 👀
 
