@@ -100,7 +100,7 @@ Introduce My Name is AZWAR ANAS GUSTI <a href="https://www.youtube.com/c/AzwarOf
 
 <p align="center">
 
-<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=vikassuthar44&layout=compact" alt="vikassuthar44 Stats" />
+<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=azwarkoto&layout=compact" alt="azwarkoto Stats" />
   
 <br>
 <br>
