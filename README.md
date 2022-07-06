@@ -1,3 +1,5 @@
+![](androidbites.jpg)
+
 # Programmer's World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Introduce My Name is AZWAR ANAS GUSTI <a href="https://www.youtube.com/c/AzwarOfficial" target="_blank"><img src="https://img.shields.io/badge/youtube-AzwarOfficial-4078c0?style=for-the-badge&logo=youtube" alt="youtube"></a> 
