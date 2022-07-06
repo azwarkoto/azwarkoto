@@ -98,7 +98,7 @@ Introduce My Name is AZWAR ANAS GUSTI <a href="https://www.youtube.com/c/AzwarOf
 
    <p align="center">
 <a href="https://github.com/azwarkoto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azwarkoto&theme=blue-greencount_private=true&show_icons=true&include_all_commits=true" alt="azwarkoto | Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azwarkoto&theme=blue-green&show_icons=true&include_all_commits=true" alt="azwarkoto | Stats"/>
   
 
   
