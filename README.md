@@ -91,7 +91,7 @@ Introduce My Name is AZWAR ANAS GUSTI <a href="https://www.youtube.com/c/AzwarOf
 <p align="center">
   
   
- [![GitHub Streak] <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" (https://github-readme-streak-stats.herokuapp.com?user=azwarkoto&theme=hacker&hide_border=true)](https://git.io/streak-stats)
+ [![GitHub Streak]  align="center" border-radius="40px" width="800px" height="200px" (https://github-readme-streak-stats.herokuapp.com?user=azwarkoto&theme=hacker&hide_border=true)](https://git.io/streak-stats)
 
 
   
