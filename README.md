@@ -10,7 +10,7 @@ Introduce My Name is AZWAR ANAS GUSTI <a href="https://www.youtube.com/c/AzwarOf
 
 
 ## About Me
-<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
   🔭 I’m currently working at PT.Halotec Indonesia
     🌱 I’m currently learning Flutter and Java,Katolin,Html,Php,CSS,Java Script
