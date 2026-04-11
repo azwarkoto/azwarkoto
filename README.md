@@ -17,7 +17,7 @@ Introduce My Name is AZWAR ANAS GUSTI <a href="https://www.youtube.com/c/AzwarOf
     👯 I’m looking to collaborate as Data Analyst
     🤔 I’m looking for suggest for Automation and Data Analyst
     💬 Ask me about anything
-    📫 How to reach me: azwar.one10@gmail.com
+    📫 How to reach me: 
     
     
 ## Education:
@@ -28,7 +28,6 @@ Introduce My Name is AZWAR ANAS GUSTI <a href="https://www.youtube.com/c/AzwarOf
    
 
 ## Work Experience:
-#### 1. [PT. HALOTEC INDONESIA](http://halotec-indonesia.com/) | IT SUPPORT | Jakarta `Dec'2018 - Now`
 #### 2. [PT. KAWASAKI (https://www.kawasaki-motor.co.id/id-id/) | WAREHOUSE GOODS PRODUCTION | Jakarta `Dec'2013 - Now`
    
    
