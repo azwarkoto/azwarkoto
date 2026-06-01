@@ -1,8 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 # Programmer's World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-Introduce My Name is AZWAR ANAS GUSTI <a href="https://www.youtube.com/c/AzwarOfficial" target="_blank"><img src="https://img.shields.io/badge/youtube-AzwarOfficial-4078c0?style=for-the-badge&logo=youtube" alt="youtube"></a> 
+ 
 
 
 . I'm a mobile technology enthusiast! love Android __kotlinAlltheWay__, want to explore all opportunity around it! 
@@ -17,18 +16,7 @@ Introduce My Name is AZWAR ANAS GUSTI <a href="https://www.youtube.com/c/AzwarOf
     👯 I’m looking to collaborate as Data Analyst
     🤔 I’m looking for suggest for Automation and Data Analyst
     💬 Ask me about anything
-    📫 How to reach me: 
-    
-    
-## Education:
-
-#### 1. [Universitas Bina Sarana Informatika (BSI)](https://www.bsi.ac.id/ubsi/index.js) | Informatics Management | Jakarta `2015-2018`
-   
- #### 2. [SMK DINAMIKA PEMABAGUNAN 1 JAKARTA ](https://smkdp1jkt.sch.id/) | TKR (TEKNIK KENDARAAN RINGGAN)  | JAKARTA `2012-2015`
-   
-
-## Work Experience:
-#### 2. [PT. KAWASAKI (https://www.kawasaki-motor.co.id/id-id/) | WAREHOUSE GOODS PRODUCTION | Jakarta `Dec'2013 - Now`
+  
    
    
 ---
